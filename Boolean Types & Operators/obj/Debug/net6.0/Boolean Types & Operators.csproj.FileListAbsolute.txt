@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\Boolean Types & Operators\bin\Debug\net6.0\Boolean Types & Operators.exe
+E:\projects\dotnet\Csharp\Boolean Types & Operators\bin\Debug\net6.0\Boolean Types & Operators.deps.json
+E:\projects\dotnet\Csharp\Boolean Types & Operators\bin\Debug\net6.0\Boolean Types & Operators.runtimeconfig.json
+E:\projects\dotnet\Csharp\Boolean Types & Operators\bin\Debug\net6.0\Boolean Types & Operators.dll
+E:\projects\dotnet\Csharp\Boolean Types & Operators\bin\Debug\net6.0\Boolean Types & Operators.pdb
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.dll
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\refint\Boolean Types & Operators.dll
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.pdb
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\Boolean Types & Operators.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\Boolean Types & Operators\obj\Debug\net6.0\ref\Boolean Types & Operators.dll
