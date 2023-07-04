@@ -5,15 +5,17 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{A97C620D-DDF5-465C-9A77-334C3F2E0846}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean Types & Operators", "Boolean Types & Operators\Boolean Types & Operators.csproj", "{6C9E1E1B-E49F-424C-B729-D44810027088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boolean Types & Operators", "Boolean Types & Operators\Boolean Types & Operators.csproj", "{6C9E1E1B-E49F-424C-B729-D44810027088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions&Selection&Itrations", "Expressions&Selection&Itrations\Expressions&Selection&Itrations.csproj", "{1473CD29-D76B-4F67-AEEC-E7C85AACB048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expressions&Selection&Itrations", "Expressions&Selection&Itrations\Expressions&Selection&Itrations.csproj", "{1473CD29-D76B-4F67-AEEC-E7C85AACB048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingAndTypeConversions", "CastingAndTypeConversions\CastingAndTypeConversions.csproj", "{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastingAndTypeConversions", "CastingAndTypeConversions\CastingAndTypeConversions.csproj", "{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constractors", "Constractors\Constractors.csproj", "{2032725B-63E9-4DFB-9CC0-B054C08E27CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constractors", "Constractors\Constractors.csproj", "{2032725B-63E9-4DFB-9CC0-B054C08E27CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{DDC526EF-CE0C-463A-8F46-826C655BB203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{DDC526EF-CE0C-463A-8F46-826C655BB203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{7B19E231-C3B9-462D-873A-950E59636721}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DDC526EF-CE0C-463A-8F46-826C655BB203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC526EF-CE0C-463A-8F46-826C655BB203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC526EF-CE0C-463A-8F46-826C655BB203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B19E231-C3B9-462D-873A-950E59636721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B19E231-C3B9-462D-873A-950E59636721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B19E231-C3B9-462D-873A-950E59636721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B19E231-C3B9-462D-873A-950E59636721}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
