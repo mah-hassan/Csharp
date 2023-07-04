@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean Types & Operators", "Boolean Types & Operators\Boolean Types & Operators.csproj", "{6C9E1E1B-E49F-424C-B729-D44810027088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions&Selection&Itrations", "Expressions&Selection&Itrations\Expressions&Selection&Itrations.csproj", "{1473CD29-D76B-4F67-AEEC-E7C85AACB048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C9E1E1B-E49F-424C-B729-D44810027088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C9E1E1B-E49F-424C-B729-D44810027088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C9E1E1B-E49F-424C-B729-D44810027088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

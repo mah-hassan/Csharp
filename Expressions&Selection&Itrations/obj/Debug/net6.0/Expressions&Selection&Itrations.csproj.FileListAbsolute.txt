@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\bin\Debug\net6.0\Expressions&Selection&Itrations.exe
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\bin\Debug\net6.0\Expressions&Selection&Itrations.deps.json
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\bin\Debug\net6.0\Expressions&Selection&Itrations.runtimeconfig.json
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\bin\Debug\net6.0\Expressions&Selection&Itrations.dll
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\bin\Debug\net6.0\Expressions&Selection&Itrations.pdb
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.dll
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\refint\Expressions&Selection&Itrations.dll
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.pdb
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\Expressions&Selection&Itrations.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\Expressions&Selection&Itrations\obj\Debug\net6.0\ref\Expressions&Selection&Itrations.dll
