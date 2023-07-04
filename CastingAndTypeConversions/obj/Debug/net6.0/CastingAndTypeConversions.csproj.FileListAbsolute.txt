@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\bin\Debug\net6.0\CastingAndTypeConversions.exe
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\bin\Debug\net6.0\CastingAndTypeConversions.deps.json
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\bin\Debug\net6.0\CastingAndTypeConversions.runtimeconfig.json
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\bin\Debug\net6.0\CastingAndTypeConversions.dll
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\bin\Debug\net6.0\CastingAndTypeConversions.pdb
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.dll
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\refint\CastingAndTypeConversions.dll
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.pdb
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\CastingAndTypeConversions.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\CastingAndTypeConversions\obj\Debug\net6.0\ref\CastingAndTypeConversions.dll

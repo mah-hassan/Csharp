@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean Types & Operators",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions&Selection&Itrations", "Expressions&Selection&Itrations\Expressions&Selection&Itrations.csproj", "{1473CD29-D76B-4F67-AEEC-E7C85AACB048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingAndTypeConversions", "CastingAndTypeConversions\CastingAndTypeConversions.csproj", "{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1473CD29-D76B-4F67-AEEC-E7C85AACB048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FDBC05-931F-497E-BEA4-1A1EBFA2D093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
