@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\Events\bin\Debug\net6.0\Events.exe
+E:\projects\dotnet\Csharp\Events\bin\Debug\net6.0\Events.deps.json
+E:\projects\dotnet\Csharp\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+E:\projects\dotnet\Csharp\Events\bin\Debug\net6.0\Events.dll
+E:\projects\dotnet\Csharp\Events\bin\Debug\net6.0\Events.pdb
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.dll
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\refint\Events.dll
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.pdb
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\Events\obj\Debug\net6.0\ref\Events.dll
