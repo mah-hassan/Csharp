@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverLoading", "OperatorOverLoading\OperatorOverLoading.csproj", "{5783BF75-F57C-4892-8C80-2A8BC82C4CF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalizers", "Finalizers\Finalizers.csproj", "{B9910C03-0DFE-4E77-958D-0C24C9EEF7E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finalizers", "Finalizers\Finalizers.csproj", "{B9910C03-0DFE-4E77-958D-0C24C9EEF7E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{08446699-96E7-48FE-9FEC-A431BE8DC2F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B9910C03-0DFE-4E77-958D-0C24C9EEF7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9910C03-0DFE-4E77-958D-0C24C9EEF7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9910C03-0DFE-4E77-958D-0C24C9EEF7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08446699-96E7-48FE-9FEC-A431BE8DC2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08446699-96E7-48FE-9FEC-A431BE8DC2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08446699-96E7-48FE-9FEC-A431BE8DC2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08446699-96E7-48FE-9FEC-A431BE8DC2F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
