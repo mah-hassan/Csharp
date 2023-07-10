@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\GenericDelegates\bin\Debug\net6.0\GenericDelegates.exe
+E:\projects\dotnet\Csharp\GenericDelegates\bin\Debug\net6.0\GenericDelegates.deps.json
+E:\projects\dotnet\Csharp\GenericDelegates\bin\Debug\net6.0\GenericDelegates.runtimeconfig.json
+E:\projects\dotnet\Csharp\GenericDelegates\bin\Debug\net6.0\GenericDelegates.dll
+E:\projects\dotnet\Csharp\GenericDelegates\bin\Debug\net6.0\GenericDelegates.pdb
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.dll
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\refint\GenericDelegates.dll
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.pdb
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\GenericDelegates.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\GenericDelegates\obj\Debug\net6.0\ref\GenericDelegates.dll
