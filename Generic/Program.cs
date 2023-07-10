@@ -25,6 +25,7 @@
         Console.WriteLine(intList.ToString());
         intList.RemoveItem(3);
         Console.WriteLine(intList.ToString()); // [ 1 , 2 , 3 ] 
+        intList.RemoveItem(4); // unvalid index
         Console.ReadKey();
     }
 }
@@ -61,15 +62,21 @@ public class MyList<T> where T : IEquatable<T>
             Console.WriteLine("List does`nt contain any item to remove");
         else
         {
-            var disLen = _items.Length - 1;
-            T[] distnation = new T[disLen];
-            for (int i = 0; i < _items.Length; i++)
+            if (index >= 0 && index < _items.Length) // handel unvalid index 
             {
-                if (i == index)
-                    continue;
-                distnation[i] = _items[i];
+                var disLen = _items.Length - 1;
+                T[] distnation = new T[disLen];
+                for (int i = 0; i < _items.Length; i++)
+                {
+                    if (i == index)
+                        continue;
+                    distnation[i] = _items[i];
+                }
+                this._items = distnation;
             }
-            this._items = distnation;
+            else
+                Console.WriteLine("unvalid index");
+
         }
 
     }
