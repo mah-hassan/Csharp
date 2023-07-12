@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDelegates", "GenericDelegates\GenericDelegates.csproj", "{C8C78446-453A-4ED8-ADB1-85949E6A5F94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{A42E6D9E-D3B9-4B3A-AABA-45CEF38443F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{A42E6D9E-D3B9-4B3A-AABA-45CEF38443F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonInterfacesAndMethods", "CommonInterfacesAndMethods\CommonInterfacesAndMethods.csproj", "{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{A42E6D9E-D3B9-4B3A-AABA-45CEF38443F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A42E6D9E-D3B9-4B3A-AABA-45CEF38443F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A42E6D9E-D3B9-4B3A-AABA-45CEF38443F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
