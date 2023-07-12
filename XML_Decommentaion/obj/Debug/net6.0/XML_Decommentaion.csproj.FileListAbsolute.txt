@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\XML_Decommentaion\bin\Debug\net6.0\XML_Decommentaion.exe
+E:\projects\dotnet\Csharp\XML_Decommentaion\bin\Debug\net6.0\XML_Decommentaion.deps.json
+E:\projects\dotnet\Csharp\XML_Decommentaion\bin\Debug\net6.0\XML_Decommentaion.runtimeconfig.json
+E:\projects\dotnet\Csharp\XML_Decommentaion\bin\Debug\net6.0\XML_Decommentaion.dll
+E:\projects\dotnet\Csharp\XML_Decommentaion\bin\Debug\net6.0\XML_Decommentaion.pdb
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.dll
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\refint\XML_Decommentaion.dll
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.pdb
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\XML_Decommentaion.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\XML_Decommentaion\obj\Debug\net6.0\ref\XML_Decommentaion.dll

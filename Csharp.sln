@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDelegates", "Generic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{A42E6D9E-D3B9-4B3A-AABA-45CEF38443F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonInterfacesAndMethods", "CommonInterfacesAndMethods\CommonInterfacesAndMethods.csproj", "{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonInterfacesAndMethods", "CommonInterfacesAndMethods\CommonInterfacesAndMethods.csproj", "{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Decommentaion", "XML_Decommentaion\XML_Decommentaion.csproj", "{CC883C29-DFE1-416E-9C94-4F190BA9A411}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{180E64D2-4C18-48F4-8CE7-06F7E6AB188F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC883C29-DFE1-416E-9C94-4F190BA9A411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC883C29-DFE1-416E-9C94-4F190BA9A411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC883C29-DFE1-416E-9C94-4F190BA9A411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC883C29-DFE1-416E-9C94-4F190BA9A411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

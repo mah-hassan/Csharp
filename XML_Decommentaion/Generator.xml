@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+	<assembly>
+		<name>Generator</name>
+	</assembly>
+	<members>
+		<member name="Generator">
+			<summary>
+				Represents a class for generating IDs
+			</summary>
+		</member>
+		<member name="GenerateId">
+			<summary>
+				Generates an ID based on the employee's first and last names, as well as their hire date.
+			</summary>
+			<param name="fName">The employee's first name.</param>
+			<param name="lName">The employee's last name.</param>
+			<param name="hireDate">The employee's hire date.</param>
+			<returns>A string representing the generated ID.</returns>
+			<exception cref="System.InvalidOperationException">
+				<paramref name="fName"/> is null.
+				-or-3
+				<paramref name="lName"/> is null.
+				-or-
+				<paramref name="hireDate"/> is in the past.
+			</exception>
+		</member>
+
+		<member name="GeneratePassword">
+			<summary>
+				Generates Password Randoomly with the length you want.
+			</summary>
+			<param name="length">Password Length.</param>
+			<returns>A string representing the generated Password.</returns>
+		</member>
+		
+	</members>
+</doc>
