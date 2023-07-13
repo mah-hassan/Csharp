@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\Reflection\bin\Debug\net6.0\Reflection.exe
+E:\projects\dotnet\Csharp\Reflection\bin\Debug\net6.0\Reflection.deps.json
+E:\projects\dotnet\Csharp\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+E:\projects\dotnet\Csharp\Reflection\bin\Debug\net6.0\Reflection.dll
+E:\projects\dotnet\Csharp\Reflection\bin\Debug\net6.0\Reflection.pdb
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.dll
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.pdb
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\Reflection\obj\Debug\net6.0\ref\Reflection.dll
