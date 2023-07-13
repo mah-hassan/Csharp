@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+E:\projects\dotnet\Csharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+E:\projects\dotnet\Csharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+E:\projects\dotnet\Csharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+E:\projects\dotnet\Csharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll
