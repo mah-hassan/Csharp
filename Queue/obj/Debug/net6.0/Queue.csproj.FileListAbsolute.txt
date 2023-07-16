@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\Queue\bin\Debug\net6.0\Queue.exe
+E:\projects\dotnet\Csharp\Queue\bin\Debug\net6.0\Queue.deps.json
+E:\projects\dotnet\Csharp\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+E:\projects\dotnet\Csharp\Queue\bin\Debug\net6.0\Queue.dll
+E:\projects\dotnet\Csharp\Queue\bin\Debug\net6.0\Queue.pdb
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.dll
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\refint\Queue.dll
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.pdb
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\Queue\obj\Debug\net6.0\ref\Queue.dll
