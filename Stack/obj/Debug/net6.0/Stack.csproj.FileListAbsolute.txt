@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\Stack\bin\Debug\net6.0\Stack.exe
+E:\projects\dotnet\Csharp\Stack\bin\Debug\net6.0\Stack.deps.json
+E:\projects\dotnet\Csharp\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+E:\projects\dotnet\Csharp\Stack\bin\Debug\net6.0\Stack.dll
+E:\projects\dotnet\Csharp\Stack\bin\Debug\net6.0\Stack.pdb
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.dll
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\refint\Stack.dll
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.pdb
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\Stack\obj\Debug\net6.0\ref\Stack.dll
