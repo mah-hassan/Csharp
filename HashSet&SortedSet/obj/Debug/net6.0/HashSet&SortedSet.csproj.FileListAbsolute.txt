@@ -1,0 +1,15 @@
+E:\projects\dotnet\Csharp\HashSet&SortedSet\bin\Debug\net6.0\HashSet&SortedSet.exe
+E:\projects\dotnet\Csharp\HashSet&SortedSet\bin\Debug\net6.0\HashSet&SortedSet.deps.json
+E:\projects\dotnet\Csharp\HashSet&SortedSet\bin\Debug\net6.0\HashSet&SortedSet.runtimeconfig.json
+E:\projects\dotnet\Csharp\HashSet&SortedSet\bin\Debug\net6.0\HashSet&SortedSet.dll
+E:\projects\dotnet\Csharp\HashSet&SortedSet\bin\Debug\net6.0\HashSet&SortedSet.pdb
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.csproj.AssemblyReference.cache
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.AssemblyInfoInputs.cache
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.AssemblyInfo.cs
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.csproj.CoreCompileInputs.cache
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.dll
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\refint\HashSet&SortedSet.dll
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.pdb
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\HashSet&SortedSet.genruntimeconfig.cache
+E:\projects\dotnet\Csharp\HashSet&SortedSet\obj\Debug\net6.0\ref\HashSet&SortedSet.dll
