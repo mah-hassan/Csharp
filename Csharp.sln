@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{9782E96A-9394-4E68-A8E6-441CAF2841FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{53B3623D-C191-479E-B6F5-A8948AA8EA56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{53B3623D-C191-479E-B6F5-A8948AA8EA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{0349184B-9B5D-4E9D-BEED-6CBEDFE07D87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{53B3623D-C191-479E-B6F5-A8948AA8EA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B3623D-C191-479E-B6F5-A8948AA8EA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53B3623D-C191-479E-B6F5-A8948AA8EA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0349184B-9B5D-4E9D-BEED-6CBEDFE07D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0349184B-9B5D-4E9D-BEED-6CBEDFE07D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0349184B-9B5D-4E9D-BEED-6CBEDFE07D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0349184B-9B5D-4E9D-BEED-6CBEDFE07D87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
