@@ -1,0 +1,104 @@
+{
+  "FirstName": "Mahmoud",
+  "LastName": "Hassan",
+  "ID": 1,
+  "Title": "Backend Developer",
+  "Skills": [
+    "HTML",
+    "CSS",
+    "JS",
+    "C#"
+  ]
+}{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "ID": 2,
+  "Title": "Frontend Developer",
+  "Skills": [
+    "HTML",
+    "CSS",
+    "JS"
+  ]
+}{
+  "FirstName": "Jane",
+  "LastName": "Doe",
+  "ID": 3,
+  "Title": "Full-stack Developer",
+  "Skills": [
+    "HTML",
+    "CSS",
+    "JS",
+    "C#",
+    "SQL"
+  ]
+}{
+  "FirstName": "Alice",
+  "LastName": "Smith",
+  "ID": 4,
+  "Title": "Software Engineer",
+  "Skills": [
+    "Java",
+    "Python",
+    "C\u002B\u002B"
+  ]
+}{
+  "FirstName": "Bob",
+  "LastName": "Johnson",
+  "ID": 5,
+  "Title": "Data Analyst",
+  "Skills": [
+    "SQL",
+    "Excel",
+    "Python"
+  ]
+}{
+  "FirstName": "Sarah",
+  "LastName": "Lee",
+  "ID": 6,
+  "Title": "UX Designer",
+  "Skills": [
+    "UI Design",
+    "Wireframing",
+    "Prototyping"
+  ]
+}{
+  "FirstName": "Alex",
+  "LastName": "Kim",
+  "ID": 7,
+  "Title": "Project Manager",
+  "Skills": [
+    "Agile",
+    "Scrum",
+    "Leadership"
+  ]
+}{
+  "FirstName": "Emily",
+  "LastName": "Wong",
+  "ID": 8,
+  "Title": "Marketing Specialist",
+  "Skills": [
+    "SEO",
+    "Social Media",
+    "Content Writing"
+  ]
+}{
+  "FirstName": "David",
+  "LastName": "Chen",
+  "ID": 9,
+  "Title": "QA Engineer",
+  "Skills": [
+    "Testing",
+    "Automation",
+    "Bug Tracking"
+  ]
+}{
+  "FirstName": "Grace",
+  "LastName": "Liu",
+  "ID": 10,
+  "Title": "Technical Writer",
+  "Skills": [
+    "Technical Writing",
+    "Documentation",
+    "Editing"
+  ]
+}
